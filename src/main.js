@@ -3,7 +3,7 @@ import App from './App.vue'
 import router from './router'
 import store from './store'
 // 引入element ui组件
-import './plugin/element_ui'
+import './plugins/element_ui'
 Vue.config.productionTip = false
 
 new Vue({
